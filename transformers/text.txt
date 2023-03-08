@@ -1,0 +1,1 @@
+Wir lernen die Transformer Architektur von Neuronalen Netzen um komplexere Sprachmodelle zu verstehen.
