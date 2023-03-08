@@ -1,1 +1,1 @@
-Wir lernen die Transformer Architektur von Neuronalen Netzen um komplexere Sprachmodelle zu verstehen.
+We study the Transformer architecture for neural networks to understand how more complex and recent models work.
